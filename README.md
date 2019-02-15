@@ -11,4 +11,4 @@ To run:
 4) Under the main function for the DenoisingAutoEncoder.py update the file paths, the dimension of the network, number of epochs and the learning rate.
 
 
-Note: The model is a very simple model. It is supposed to be a single layer stacked encoder, putting higher dimensions for the net_dims might result in unexpected results or failures. The learning rate is kept constant. No momentum is used. Batch Gradient Descent is used.
+Note: This is a very simple model. It is a single layer Auto-Encoder. Putting higher dimensions for the net_dims might result in unexpected results or failures. The learning rate is kept constant. No momentum is used. Batch Gradient Descent is used. An output from the denoising autoencoder can be seen under the output folder.
