@@ -1,0 +1,1 @@
+This folder contains the ouputs of Denoising AutoEncoder having dimensions [784, 500, 784]. It contains a parameter file, the weights generated, an image file showing the denoised images and a log file, storing the change of cost over iterations and other informations.
