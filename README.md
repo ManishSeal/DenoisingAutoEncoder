@@ -1,4 +1,4 @@
-# DenoisingAutoEncoders
+# Denoising Auto-Encoders
 
 This project is a demonstration of the de-noising capability of an Auto-Encoder.
 
